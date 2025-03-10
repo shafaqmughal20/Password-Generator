@@ -28,4 +28,4 @@ if st.button('Generate Password') :
     st.write(f'Generated Password : {use}')
 
 
-    st.write('Build With 💖 By Shafaq Mughal !!!')
+    st.write('Build By Shafaq Mughal !!!')
